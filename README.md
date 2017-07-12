@@ -1,6 +1,6 @@
 # gsltest
 
-Noticed weird output when I ran my library on 64 bit linux in dev, so I tried to hunt down where the problem was.
+Noticed weird output when I ran my library on 64 bit linux, so I tried to hunt down where the problem was.
 In my library I am using gsl_multifit_linear from libgsl. I have to tried to reproduce the problem with a simpler setup as follows.
 
 Setup:
